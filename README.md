@@ -27,6 +27,6 @@ Technologies Used:
 
 2. Standard Library
 
-<iostream> for input/output
+iostream for input/output
 
-<cstdlib> and <ctime> for random number generation.
+cstdlib and <ctime> for random number generation.
